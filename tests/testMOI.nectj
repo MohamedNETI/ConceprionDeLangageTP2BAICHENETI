@@ -1,0 +1,7 @@
+Func main()
+	Write( "Enter a number for test method sqrt: " );
+	Read ( X );
+	S = sqrt( X );
+	Write ( "The square root is:");
+	Write ( S );
+Endfunc
