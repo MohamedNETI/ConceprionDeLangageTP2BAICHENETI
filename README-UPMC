@@ -1,0 +1,22 @@
+[interpreter]
+
+Il s'agit d'un interprète base écrite pour une classe de langages de programmation. 
+
+C'est vraiment basique, mais assez fonctionnel pour obtenir la substance faite. 
+Variables, des fonctions, des boucles de base, l'égalité, etc sont tous ici. 
+Il s'agit d'un langage complet de restructuration.
+
+Il ya quelques exemples inclus et un makefile et des trucs si vous voulez construire 
+et jouer avec elle.
+
+En conception de langage, nous avons implémenter la primitive sqrt qui retoune la racine carré d'un retournant la partie entier inferieur.
+
+
+COMPILER :
+1/ allez à la racine du projet dans le terminal (dossier projet_CL_2_NETI_BAICHE)
+2/ lancer la commande : make clean
+3/ lancer la commande : make
+4/ allez dans le dossier src : cd src
+5/ executer le fichier nectj : java nectj
+6/ le programme se lance et demande un nom de fichier test (dans notre cas testMOI.nectj) : ../tests/testMOI.nectj
+7/ suivre le programme
